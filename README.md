@@ -3,6 +3,7 @@
 This is a code test for Retink app
 
 ## Live Demo
+https://retink-test.netlify.app/
 
 ## Installation
 
